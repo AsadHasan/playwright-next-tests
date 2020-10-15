@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  playwrightnexttests:
+    image: playwrightnexttests
+    build:
+      context: .
+      dockerfile: Dockerfile

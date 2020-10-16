@@ -13,4 +13,4 @@ RUN apt install -y python3-pip && pip3 install -r requirements.txt
 WORKDIR /app
 ADD . /app
 
-CMD ["pytest", "src/test_next_website.py"]
+CMD ["pytest"]

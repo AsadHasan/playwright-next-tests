@@ -4,3 +4,7 @@ __pycache__
 .pytest_cache
 .mypy_cache
 .idea
+.dccache
+.pyre
+# Only used for local type checking
+.pyre_configuration 

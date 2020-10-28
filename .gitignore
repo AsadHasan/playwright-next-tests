@@ -5,6 +5,7 @@ __pycache__
 .mypy_cache
 .idea
 .dccache
+.dcignore
 .pyre
 # Only used for local type checking
-.pyre_configuration 
+.pyre_configuration
